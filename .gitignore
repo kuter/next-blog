@@ -30,4 +30,4 @@ yarn-error.log*
 .env.production.local
 
 # vim
-*.sw[p]
+*.sw[po]
